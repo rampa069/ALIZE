@@ -44,3 +44,6 @@ case "$1" in
 	build
 esac
 
+cp src/libalize.a lib
+
+
